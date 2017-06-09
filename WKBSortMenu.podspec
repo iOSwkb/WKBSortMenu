@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   #私有库名称
   s.name         = "WKBSortMenu"
   #私有仓库版本号
-  s.version      = "0.0.1"
+  s.version      = "1.0.1"
   #私有仓库简介(终端中pod search显示的简介)
   s.summary      = "封装的排序筛选类目框"
   #私有库详细介绍,github仓库主页显示
